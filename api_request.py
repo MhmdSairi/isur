@@ -20,7 +20,7 @@ from crypto_helper import (
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Use the new API key provided by the user
-NEW_API_KEY = "de588d51-47bf-4af0-8522-649c4456d0fe"
+NEW_API_KEY = "bc17fbe1-f3eb-4c49-98ec-8420b48a7767"
 BASE_URL = "https://api.myxl.xlaxiata.co.id"
 
 class APIError(Exception):
